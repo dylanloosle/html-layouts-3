@@ -1,0 +1,67 @@
+
+.master {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    width: 300px;
+    height: 150px;
+    background: black;
+
+}
+.a {
+    background: #D9242B;
+}
+.b {
+    background: #5DA5E5;
+}
+.c {
+    background: #5C5C5C;
+}
+
+.text {
+    height: 300px;
+    font-size: 24px;
+    padding-top: 30px;
+}
+
+.largeRectangle {
+    background: #5DA5E5;
+    width: 80%;
+    height: 300px;
+    float: right;
+}
+
+.smallRectangle {
+    background: #D9242B;
+    width: 20%;
+    height: 300px;
+    float: left;
+
+}
+
+.nevermind {
+    background: #5DA5E5;
+    width: 80%;
+    height: 150px;
+    float:left;
+    margin-top: 20px;
+}
+
+.parent {
+    background: #D9242B;
+    width: 20%;
+    height: 150px;
+    float: right;
+    margin-top: 20px;
+    display: flex;
+}
+
+.child {
+    background: #5C5C5C;
+    width: 80%;
+    height: 150px;
+    justify-content: center;
+    margin-left: 25px;
+}
