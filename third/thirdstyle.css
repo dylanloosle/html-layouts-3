@@ -1,0 +1,80 @@
+html, body {
+    height: 100%;
+    width: 100%;
+
+}
+.topBar {
+    width: 100%;
+    height: 10%;
+    background: #424242;
+    color: white;
+}
+.button {
+    color: white;
+    font-family: Helvetica;
+    float: left;
+    margin: 4% 0% 0% 7%;
+    font-size: 20px;
+    line-height: 1px;
+
+}
+
+main {
+    height: 80%;
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.square {
+    height: 40%;
+    width: 30%;
+    background: #E0E0E0;
+    float: left;
+    margin: 5% 0% 0% 20%;
+}
+
+footer {
+    width: 100%;
+    height: 10%;
+    background: #424242;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    float: left;
+    margin: 8% 0% 0% 10%;
+    font-size: 50px;
+
+}
+
+img {
+    height: 40%;
+    width: 80%;
+    margin: 8% 20% 0% 10%;
+}
+
+.left {
+    height: 100%;
+    width: 50%;
+    float: left;
+
+
+}
+
+.right {
+    height: 100%;
+    width: 50%;
+    float: left;
+
+}
+
+p {
+    float: left;
+    margin: 3% 2% 3% 10%;
+}
+
+#p2 {
+    float: left;
+    margin: 3% 10% 3% 10%;
+}
