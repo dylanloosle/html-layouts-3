@@ -63,6 +63,7 @@ html, body {
     line-height: 320px;
     font-size: 50px;
     padding: 4%;
+    font-family: Helvetica;
 
 }
 
@@ -71,30 +72,20 @@ html, body {
     font-size: 25px;
     margin: 5% 0;
 }
-
-.bottom {
+footer {
     height: 10%;
     width: 100%;
     background: #424242;
     color: white;
     font-size: 25px;
-    display: inline-flex;
-    justify-content: flex-end;
-
-}
-
-.apple {
-    color: white;
-
-    margin-top: 4%;
 
 
 }
 
-.google {
+.solution {
     color: white;
-
-    margin-top: 4%;
-
-
+    font-family: Helvetica;
+    float: right;
+    margin-right: 10%;
+    line-height: 10px;
 }
